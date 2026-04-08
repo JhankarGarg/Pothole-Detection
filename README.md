@@ -129,7 +129,7 @@ Webcam Detection
 
 ## 👨‍💻 Author
 
-Laksh Dandare
+Jhankar Garg
 
 Artificial Intelligence Project
 
